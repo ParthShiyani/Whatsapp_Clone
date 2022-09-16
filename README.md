@@ -2,8 +2,7 @@
 
 ## About this app 
 ### Android 
-<img src="https://user-images.githubusercontent.com/111631451/190563519-d7bb256a-acad-4858-aae7-050d2ad7d6d8.png
-" style="height:550px"/><img src="https://user-images.githubusercontent.com/111631451/190563609-117306f3-63b8-4be7-8312-dba38ae134cd.png" style="height:550px"/><img src="https://user-images.githubusercontent.com/111631451/190563653-cd9e33ed-7e75-4a27-9ff8-f4bfab1fd227.png" style="height:550px"/>
+<img src="https://user-images.githubusercontent.com/111631451/190564455-fd2f2911-6600-4701-9cf5-7a01302913f9.png" style="height:550px"/>  <img src="https://user-images.githubusercontent.com/111631451/190563609-117306f3-63b8-4be7-8312-dba38ae134cd.png" style="height:550px"/>  <img src="https://user-images.githubusercontent.com/111631451/190563653-cd9e33ed-7e75-4a27-9ff8-f4bfab1fd227.png" style="height:550px"/>
 
 https://user-images.githubusercontent.com/111631451/188370514-018961fc-0f80-4363-8194-6d3e705f5feb.mp4
 ### IOS
